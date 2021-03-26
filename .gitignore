@@ -14,7 +14,7 @@ use_map
 stopserver
 reboot_called
 atupdate
-
+.ionide/*
 # ignore config, but not subdirs
 !config/*/
 config/*
